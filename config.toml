@@ -16,8 +16,8 @@ googleAnalytics = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "p7t"
+  description = "Des podcasts techniques où technique n'est pas un gros mot"
 
   # Link custom assets relative to /static
   custom_css = []
