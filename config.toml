@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://p7t.tech/"
+baseURL = "https://p7t.tech/"
 languageCode = "fr"
 title = "p7t"
 theme = "forty"
