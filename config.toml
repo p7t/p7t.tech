@@ -91,19 +91,19 @@ googleAnalytics = ""
     title = "Dans Ton Kube"
     subtitle = "kubernetes dans tous ses états"
     image = "kubernetes-logo.png"
-    url = "https://shows.pippa.io/dans-ton-kube"
+    url = "http://dtk.p7t.tech"
 
     [[params.tiles.showcase]]
       title = "Dev'Obs"
       subtitle = "Le magazine et observatoire du DevOps"
       image = "devobs-banner.jpg"
-      url = "https://shows.pippa.io/devobs"
+      url = "http://devobs.p7t.tech"
 
     [[params.tiles.showcase]]
       title = "Votre Profil Nous Interesse"
       subtitle = "Parole et expérience de développeurs"
       image = "vpni.png"
-      url = "https://shows.pippa.io/votre-profil-nous-interesse"
+      url = "http://vpni.p7t.tech"
 
     # [[params.tiles.showcase]]
     #   title = "Ipsum"
