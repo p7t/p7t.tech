@@ -2,7 +2,7 @@
 title: "DevObs"
 subtitle: "Le magazine et observatoire du DevOps"
 
-date: 2020-06-02T13:18:44+02:00
+date: 2019-12-02T13:18:44+02:00
 draft: false
 
 

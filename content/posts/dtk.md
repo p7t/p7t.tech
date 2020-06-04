@@ -2,7 +2,7 @@
 title: "Dans Ton Kube"
 subtitle: "Kubernetes dans tous ses états."
 
-date: 2020-06-02T13:11:02+02:00
+date: 2019-11-01T13:11:02+02:00
 draft: false
 
 resources:
